@@ -7,7 +7,7 @@
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=idjoopal&repo=qrspy)](https://github.com/clintcarr/qrspy)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=idjoopal&repo=BurgerIndex2019)](https://github.com/idjoopal/BurgerIndex2019)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=idjoopal&repo=DNA_Android)](https://github.com/dna-edge/DNA_Android)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=idjoopal&repo=BigdataAnalysisGisa)](https://github.com/idjoopal/BigdataAnalysisGisa)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=idjoopal&repo=yemoonsaBigdata)](https://github.com/AnalyticsKnight/yemoonsaBigdata)
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=idjoopal&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
